@@ -9,7 +9,7 @@
  * 4.) Add Exception Breakpoint - you can add any exception here
  * 5.) Grab the ss of the breakpoint once you run the exception breakpoint code
  * 
- * 7 points for the above tasks and 3 points for the screen recording
+ * 7 points for the above tasks and 3 points for Lab Report
  */
 public class ConditionalBreakPoint  {
 	
